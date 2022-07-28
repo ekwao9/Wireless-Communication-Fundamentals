@@ -22,4 +22,9 @@ To validate understanding of the subject matter and to acquire coding skills, so
 
 
 
+### 4. Cellular Systems: Multiple Access and Interference Management
+- KEYWORDS: Interference averaging, Power control, Spectral efficiency, CDMA, Wideband
+
+  - [Presentation Summary Slides]() / [Practice Simulation Code]()
+
 
