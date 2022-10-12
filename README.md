@@ -5,7 +5,7 @@ To validate understanding of the subject matter and to acquire coding skills, so
 ### 1. The Wireless Channel
 - KEYWORDS: Additive White Gaussian Noise, baseband signal model, fading scales, Rayleigh fading channel, Rician fadin channel
 
-  - [Presentation Summary Slides](https://docs.google.com/presentation/d/1hu0Q2vIGhoO03nxhtWGziEIavmj33q4T/edit#slide=id.p2) / [Practice Simulation Code](https://github.com/ekwao9/Wireless-Communication-Fundamentals/tree/main/Simulations/Chapter%201)
+  - [Presentation Summary](https://github.com/ekwao9/Wireless-Communication-Fundamentals/blob/main/Chapter%201/HBNU-The%20Wireless%20Channel.pptx.pdf) / [Practice Simulation Code](https://github.com/ekwao9/Wireless-Communication-Fundamentals/tree/main/Simulations/Chapter%201)
 
 
 ### 2. The Wireless Channel: Propagation and Fading
