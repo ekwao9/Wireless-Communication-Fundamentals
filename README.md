@@ -11,7 +11,7 @@ To validate understanding of the subject matter and to acquire coding skills, so
 ### 2. The Wireless Channel: Propagation and Fading
 - KEYWORDS: Large-scale fading, Path loss model, Okumura model, Hata model, Small-scale fading, SISO channels
 
-  - [Presentation Summary Slides](https://docs.google.com/presentation/d/1aBZtHfx4F_vD13Z2lmpoFht371tkHYa2/edit#slide=id.p1) / [Practice Simulation Code](https://github.com/ekwao9/Wireless-Communication-Fundamentals/tree/main/Chapter%202)
+  - [Presentation Summary](https://github.com/ekwao9/Wireless-Communication-Fundamentals/blob/main/Chapter%202/HBNU-The%20Wireless%20Channel-Fading%20and%20Propagation.pptx.pdf) / [Practice Simulation Code](https://github.com/ekwao9/Wireless-Communication-Fundamentals/tree/main/Chapter%202)
 
 
 
