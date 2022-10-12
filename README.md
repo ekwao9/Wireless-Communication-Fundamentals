@@ -18,7 +18,7 @@ To validate understanding of the subject matter and to acquire coding skills, so
 ### 3. Point-to-Point Communication
 - KEYWORDS: Coherent detection, Noncoherent detection, Probability of Error, Deep fade event, Modulation Scheme, Diversity
 
-  - [Presentation Summary Slides](https://docs.google.com/presentation/d/1Vj-k-ql7_zYSzBjG-bFW3Cpi2akm5nVe/edit#slide=id.p1) / [Practice Simulation Code](https://github.com/ekwao9/Wireless-Communication-Fundamentals/tree/main/Chapter%203)
+  - [Presentation Summary](https://github.com/ekwao9/Wireless-Communication-Fundamentals/blob/main/Chapter%203/HBNU-Point-Point%20Communication.pptx.pdf) / [Practice Simulation Code](https://github.com/ekwao9/Wireless-Communication-Fundamentals/tree/main/Chapter%203)
 
 
 
