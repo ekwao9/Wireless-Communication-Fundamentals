@@ -46,7 +46,7 @@ To validate understanding of the subject matter and to acquire coding skills, so
 ### 7. Capacity of Wireless Channels
 - KEYWORDS: Waterfilling power allocation, Channel capacity, Bandwidth limited regime, Power limited regime, Outage capacity
 
-  - [Presentation Summary](https://github.com/ekwao9/Wireless-Communication-Fundamentals/blob/main/Chapter%207/HBNU-Capacity%20of%20wireless%20channels.pdf)
+  - [Presentation Summary I](https://github.com/ekwao9/Wireless-Communication-Fundamentals/blob/main/Chapter%207/HBNU-Capacity%20of%20wireless%20channels.pdf) / [Presentation Summary II](https://github.com/ekwao9/Wireless-Communication-Fundamentals/blob/main/Chapter%207/HBNU-Capacity%20of%20wireless%20channels%20II.pdf)
 
 ### 8. Multiuser Capacity and Opportunistic Communication
 - KEYWORDS: Proportional fair scheduling, Opportunistic beamforming, Downlink fading channel, Uplink fading channel, Channel state information, dumb antennas
